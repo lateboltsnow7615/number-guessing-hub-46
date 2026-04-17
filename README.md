@@ -1,2 +1,9 @@
-# number-guessing-hub-46
-A simple number guessing project
+# Number Guessing
+
+A simple number guessing project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
